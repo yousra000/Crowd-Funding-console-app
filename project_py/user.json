@@ -1,0 +1,26 @@
+[
+  {
+    "first_name": "noha",
+    "last_name": "instr",
+    "email": "noha@gmail.com",
+    "password": "dfdvfvbfv",
+    "mobile": "01050089240",
+    "active": true
+  },
+  {
+    "first_name": "yousra",
+    "last_name": "rama",
+    "email": "yosa@gmail.com",
+    "password": "vdjvcjcscvd",
+    "mobile": "01050089240",
+    "active": true
+  },
+  {
+    "first_name": "jojo",
+    "last_name": "jojo",
+    "email": "jojjo@jdsd.com",
+    "password": "sacbdmcdc",
+    "mobile": "01050089240",
+    "active": true
+  }
+]
